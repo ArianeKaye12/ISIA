@@ -1,1 +1,6 @@
 # ISIA
+Going into this subject, I feel both curious and a bit nervous. I know that system integration and architecture are important parts of the tech world, but I haven’t really studied them before. From what I understand, it’s about how different systems, apps, and technologies work together as one big system. I’m hoping this subject will help me see how everything connects and how software is planned and structured behind the scenes.
+
+I’m also looking forward to learning how systems actually communicate with each other. These days, most apps need to connect to other tools or platforms, and I think this subject will teach me how that happens probably through things like APIs. I really hope we get to do hands-on activities or projects, because I learn best by doing, and I know that kind of experience will help a lot in real jobs after I graduate.
+
+I expect this subject to be challenging, but in a way that helps me grow. I want to come out of it with a clearer understanding of how complex systems are built and how different technologies can be connected to work together. Even though it might be a bit tough at times, I’m excited to learn and see how I can apply these skills in the future.
